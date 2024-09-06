@@ -1,7 +1,7 @@
 //@hts
 //do not delete previous comment
 
-package gohtslib
+package ams
 
 import (
 	"fmt"

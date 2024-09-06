@@ -1,7 +1,7 @@
 //@hts
 //do not delete previous comment
 
-package gohtslib
+package ams
 
 func Apply[X, Y any](mapper func(X)Y, list []X) []Y {
 	result := make([]Y, len(list))

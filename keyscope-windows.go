@@ -1,6 +1,6 @@
 // +build windows
 
-package main
+package ams
 
 import (
 	"fmt"
